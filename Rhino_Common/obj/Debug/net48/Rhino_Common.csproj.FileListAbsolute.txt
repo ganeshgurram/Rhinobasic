@@ -1,0 +1,9 @@
+D:\rhino\Rhino_Common\bin\Debug\net48\Rhino_Common.rhp
+D:\rhino\Rhino_Common\bin\Debug\net48\Rhino_Common.pdb
+D:\rhino\Rhino_Common\obj\Debug\net48\Rhino_Common.csproj.AssemblyReference.cache
+D:\rhino\Rhino_Common\obj\Debug\net48\Rhino_Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\rhino\Rhino_Common\obj\Debug\net48\Rhino_Common.AssemblyInfoInputs.cache
+D:\rhino\Rhino_Common\obj\Debug\net48\Rhino_Common.AssemblyInfo.cs
+D:\rhino\Rhino_Common\obj\Debug\net48\Rhino_Common.csproj.CoreCompileInputs.cache
+D:\rhino\Rhino_Common\obj\Debug\net48\Rhino_Common.rhp
+D:\rhino\Rhino_Common\obj\Debug\net48\Rhino_Common.pdb

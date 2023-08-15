@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5tI0U9Qz7hAJ9X5QzkIrL4XNZc/IFn3KIQksKBvjamHm0WMmjKhPAiMrHBmvSAT/TVBAQjWlqRCaFkCBgCvJgw==",
+  "success": true,
+  "projectFilePath": "D:\\rhino\\Rhino_Common\\Rhino_Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganes\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}
